@@ -43,9 +43,8 @@ education:
     date_start: 09-2024
     date_end: 09-2025
     summary: |
-        Research project using VULCAN/CRAHCN-O to invesigate the photochemical production of potentially important biomolecule precursors in terrestrial atmospheres. Notable module grades: *Solar and Extra-Solar Planets and their Atmospheres*: 79%. *Fluid Dynamics in Physics and Astronomy*: 82% *Physics of Climate Change*: 81%
-          
-          
+        Research project using VULCAN/CRAHCN-O to invesigate the photochemical production of potentially important biomolecule precursors in terrestrial atmospheres. Notable module grades: Solar and Extra-Solar Planets and their Atmospheres: 79%. Fluid Dynamics in Physics and Astronomy: 82% Physics of Climate Change: 81%
+              
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
