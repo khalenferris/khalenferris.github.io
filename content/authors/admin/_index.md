@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 
+  icon: A
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,7 +24,7 @@ role: MSc Physics Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 
+  - name: Org
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,12 +38,12 @@ profiles:
     url: https://www.linkedin.com/khalen
 
 education:
-  - area: MSc Physics
-    institution: University of Exeter
-    date_start: 09-2024
-    date_end: 09-2025
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-        Research project using VULCAN/CRAHCN-O to invesigate the photochemical production of potentially important biomolecule precursors in terrestrial atmospheres. Notable module grades: 
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
