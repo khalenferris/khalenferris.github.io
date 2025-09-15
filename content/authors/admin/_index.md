@@ -12,6 +12,9 @@ last_name: Ferris
 # Pronouns (optional)
 pronouns: he/him
 
+# Status emoji
+status:
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,6 +22,9 @@ superuser: true
 # Role/position/tagline
 role: MSc Physics Student
 
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: University of Exeter
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -32,12 +38,14 @@ profiles:
     url: https://www.linkedin.com/in/khalen
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: MSc Physics
+    institution: University of Exeter
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Research on
+
+      - *Module 1*: 80%
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
