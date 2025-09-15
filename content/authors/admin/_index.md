@@ -12,9 +12,6 @@ last_name: Ferris
 # Pronouns (optional)
 pronouns: he/him
 
-# Status emoji
-status:
-  icon: A
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,9 +19,6 @@ superuser: true
 # Role/position/tagline
 role: MSc Physics Student
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Org
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -35,7 +29,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/khalenferris
   - icon: brands/linkedin
-    url: https://www.linkedin.com/khalen
+    url: https://www.linkedin.com/in/khalen
 
 education:
   - area: PhD Artificial Intelligence
