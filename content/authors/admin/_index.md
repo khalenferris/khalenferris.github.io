@@ -52,7 +52,7 @@ education:
           - *Physics of Climate Change*: 81%
     button:
       text: 'Read Thesis'
-      url: 'example.com'
+      url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
