@@ -40,15 +40,19 @@ profiles:
 education:
   - area: MSc Physics
     institution: University of Exeter
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 09-2024
+    date_end: 09-2025
     summary: |
-      Research on
+      Research project using VULCAN/CRAHCN-O to investigate the photochemical production of potentially important biomolecule precursors in terrestrial atmospheres.
 
-      - *Module 1*: 80%
+      Notable module grades:
+
+          - *Solar and Extra-Solar Planets and their Atmospheres*: 79%
+          - *Fluid Dynamics in Physics and Astronomy*: 82%
+          - *Physics of Climate Change*: 81%
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'static/uploads/MSc_Thesis.pdf'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
